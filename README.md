@@ -20,7 +20,9 @@ datasql/slink.sql
 
 ## Usage
 
-`php cnki.php`
+```
+php cnki.php
+```
 
 ## Input file
 
